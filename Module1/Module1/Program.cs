@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module1
 {
-
+    /// VARIANT 2 
 
     class CalendarEvent
     {
